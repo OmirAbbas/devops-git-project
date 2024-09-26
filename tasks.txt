@@ -1,3 +1,2 @@
 - Learn Git basics
 - Practice Git branching
-- Some incorrect task
